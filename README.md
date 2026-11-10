@@ -31,7 +31,6 @@
 
 - [Lyona](https://github.com/technicks89/Lyona) - An Arch based version of DWM-Titus
 - [mybash](https://github.com/technicks89/mybash)
-- [Timberborn](https://github.com/technicks89/Timberborn)
 
 ### 🌱 Latest projects
 
