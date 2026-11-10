@@ -5,12 +5,6 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Nick 👋</h1>
-
-<p align="center">
-    I enjoy tinkering with Hardware and Software.
-</p>
-
 <p align="center">
   <a href="https://github.com/technicks89/Lyona"><img alt="Lyona stars" src="https://img.shields.io/github/stars/technicks89/Lyona?style=for-the-badge&logo=github&label=Lyona&color=5e81ac"></a>
   <a href="https://github.com/technicks89?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/technicks89?style=for-the-badge&logo=github&color=81a1c1"></a>
