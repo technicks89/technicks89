@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="lyona-logo-horizontal-dark.png">
+    <img alt="Lyona" src="lyona-logo-horizontal-light.png" width="420">
+  </picture>
+</p>
+
 <h1 align="center">Hi, I'm Nick 👋</h1>
 
 <p align="center">
@@ -24,23 +31,35 @@
   </picture>
 </p>
 
+<p align="center"><img alt="GitHub metrics" src="github-metrics.svg"></p>
+
 ### 👷 Currently working on
 
-- [Lyona-ARM](https://github.com/technicks89/Lyona-ARM) - Lyona on Arch Linux ARM: a live install medium for Snapdragon X laptops (Dell XPS 13 9345) and Raspberry Pi
-- [Lyona](https://github.com/technicks89/Lyona) - an Arch based version of DWM-Titus: the desktop, installer and live image
+- [Lyona](https://github.com/technicks89/Lyona) - An Arch based version of DWM-Titus
+- [mybash](https://github.com/technicks89/mybash)
+- [Timberborn](https://github.com/technicks89/Timberborn)
 
 ### 🌱 Latest projects
 
-- [Lyona](https://github.com/technicks89/Lyona) - Arch Linux desktop built on a patched dwm and Quickshell
-- [Lyona-Artix](https://github.com/technicks89/Lyona-Artix) - Offer options for init system (openRC first) 
-- [mybash](https://github.com/technicks89/mybash) - my bash configuration
-- [claude-agents](https://github.com/technicks89/claude-agents) - my Claude Code review agents
+- [Lyona](https://github.com/technicks89/Lyona) - An Arch based version of DWM-Titus
+- [mybash](https://github.com/technicks89/mybash)
+- [Timberborn](https://github.com/technicks89/Timberborn)
 
-### ⭐ Forks I keep around
+### 🔨 Recent pull requests
 
-- [linutil](https://github.com/technicks89/linutil) - Chris Titus Tech's Linux toolbox
-- [omarchy](https://github.com/technicks89/omarchy) - beautiful, modern and opinionated Linux
-- [Pokemon_Yellow_Legacy](https://github.com/technicks89/Pokemon_Yellow_Legacy) - a polished Pokemon Yellow ROM hack
+- [cRz-Shadows/Pokemon_Yellow_Legacy#47](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy/pull/47) - Add trainers guide pdf
+- [cRz-Shadows/Pokemon_Yellow_Legacy#46](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy/pull/46) - Pokemon type changes
+- [cRz-Shadows/Pokemon_Yellow_Legacy#45](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy/pull/45) - Name suggestions
+- [cRz-Shadows/Pokemon_Yellow_Legacy#44](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy/pull/44) - Rgbds 1.0 cleanup
+- [ChrisTitusTech/dwm-titus#133](https://github.com/ChrisTitusTech/dwm-titus/pull/133) - Debian - LightDM config fix
+
+### ⭐ Recent stars
+
+- [ChrisTitusTech/titstack](https://github.com/ChrisTitusTech/titstack) - Codex and AI skills
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [technicks89/Lyona-Artix](https://github.com/technicks89/Lyona-Artix)
+- [Abs313a/linutil](https://github.com/Abs313a/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [Abs313a/dwm-titus](https://github.com/Abs313a/dwm-titus) - My DWM configuration with everything pre-patched
 
 ### 📫 How to reach me
 
