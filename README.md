@@ -53,8 +53,8 @@
 - [technicks89/dwm-titus](https://github.com/technicks89/dwm-titus) - My Linux Desktop - Fedora/X11 Desktop Environment
 - [ChrisTitusTech/titstack](https://github.com/ChrisTitusTech/titstack) - Codex and AI skills
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [technicks89/Lyona-Artix](https://github.com/technicks89/Lyona-Artix)
 - [Abs313a/linutil](https://github.com/Abs313a/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [Abs313a/dwm-titus](https://github.com/Abs313a/dwm-titus) - My DWM configuration with everything pre-patched
 
 ### 📫 How to reach me
 
