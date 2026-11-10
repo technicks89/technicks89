@@ -31,9 +31,18 @@ def recent_repos(own_only_pushed):
     return [line(r["html_url"], r["name"], r["description"]) for r in repos[:own_only_pushed]]
 
 
+PR_REPOS = ["technicks89/Lyona", "ChrisTitusTech/dwm-titus", "ChrisTitusTech/linutil"]
+
+
+PRS_PER_REPO = 2
+
+
 def recent_prs():
-    q = "author:%s+type:pr+-user:%s" % (USER, USER)
-    items = api("/search/issues?q=%s&sort=created&order=desc&per_page=5" % q)["items"]
+    items = []
+    for repo in PR_REPOS:
+        q = "author:%s+type:pr+repo:%s" % (USER, repo)
+        items += api("/search/issues?q=%s&sort=created&order=desc&per_page=%d" % (q, PRS_PER_REPO))["items"]
+    items.sort(key=lambda i: i["created_at"], reverse=True)
     return [
         line(i["html_url"], i["repository_url"].split("/repos/")[1] + "#%d" % i["number"], i["title"])
         for i in items
