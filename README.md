@@ -41,8 +41,8 @@
 
 ### 🔨 Recent pull requests
 
+- [technicks89/Lyona#482](https://github.com/technicks89/Lyona/pull/482) - Default interface scale follows the panel (#481)
 - [technicks89/Lyona#468](https://github.com/technicks89/Lyona/pull/468) - System Health stale pacman lock (#467), GOverlay in gaming packages (#466)
-- [technicks89/Lyona#465](https://github.com/technicks89/Lyona/pull/465) - Keep configure-build answers instead of a frozen config.h (#464)
 - [ChrisTitusTech/dwm-titus#133](https://github.com/ChrisTitusTech/dwm-titus/pull/133) - Debian - LightDM config fix
 - [ChrisTitusTech/dwm-titus#127](https://github.com/ChrisTitusTech/dwm-titus/pull/127) - Fixed debian dconf-cli install
 - [ChrisTitusTech/linutil#1344](https://github.com/ChrisTitusTech/linutil/pull/1344) - 943 Local Setup - Kept Old US Local Setup In place
