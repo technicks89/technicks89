@@ -41,8 +41,8 @@
 
 ### 🔨 Recent pull requests
 
-- [technicks89/Lyona#486](https://github.com/technicks89/Lyona/pull/486) - dwm-settings-input: do not let awk close setxkbmap's pipe early (#485)
-- [technicks89/Lyona#482](https://github.com/technicks89/Lyona/pull/482) - Default interface scale follows the panel (#481)
+- [technicks89/Lyona#494](https://github.com/technicks89/Lyona/pull/494) - Release: architecture markers hold their name, as GitHub refuses empty uploads (ARM5-01)
+- [technicks89/Lyona#493](https://github.com/technicks89/Lyona/pull/493) - Release workflow: install git before ci-release-aarch64.sh uses it (ARM5-01)
 - [ChrisTitusTech/dwm-titus#133](https://github.com/ChrisTitusTech/dwm-titus/pull/133) - Debian - LightDM config fix
 - [ChrisTitusTech/dwm-titus#127](https://github.com/ChrisTitusTech/dwm-titus/pull/127) - Fixed debian dconf-cli install
 - [ChrisTitusTech/linutil#1344](https://github.com/ChrisTitusTech/linutil/pull/1344) - 943 Local Setup - Kept Old US Local Setup In place
