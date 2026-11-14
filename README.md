@@ -41,8 +41,8 @@
 
 ### 🔨 Recent pull requests
 
-- [technicks89/Lyona#495](https://github.com/technicks89/Lyona/pull/495) - ARM5-01: record the 2026.11.0-beta.1 release run
-- [technicks89/Lyona#494](https://github.com/technicks89/Lyona/pull/494) - Release: architecture markers hold their name, as GitHub refuses empty uploads (ARM5-01)
+- [technicks89/Lyona#507](https://github.com/technicks89/Lyona/pull/507) - Settings: Appearance > Layout (gaps, master size and count) and Flatpak entries in Default Apps (#479, #476)
+- [technicks89/Lyona#506](https://github.com/technicks89/Lyona/pull/506) - Window rules: fullscreen, fakefullscreen, ignoresizehints keys; alwaysontop for unmanaged overlays (#477, #497)
 - [ChrisTitusTech/dwm-titus#133](https://github.com/ChrisTitusTech/dwm-titus/pull/133) - Debian - LightDM config fix
 - [ChrisTitusTech/dwm-titus#127](https://github.com/ChrisTitusTech/dwm-titus/pull/127) - Fixed debian dconf-cli install
 - [ChrisTitusTech/linutil#1344](https://github.com/ChrisTitusTech/linutil/pull/1344) - 943 Local Setup - Kept Old US Local Setup In place
