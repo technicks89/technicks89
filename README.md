@@ -41,8 +41,8 @@
 
 ### 🔨 Recent pull requests
 
+- [technicks89/Lyona#538](https://github.com/technicks89/Lyona/pull/538) - Shared code, per-event costs, fingerprint enrolment and Skip xclip (#531, #532, #535)
 - [technicks89/Lyona#537](https://github.com/technicks89/Lyona/pull/537) - Layout settings model, title bars in Settings, UI follow-ups (#530, #534)
-- [technicks89/Lyona#536](https://github.com/technicks89/Lyona/pull/536) - Small fixes from the beta.2 review (#529)
 - [ChrisTitusTech/dwm-titus#133](https://github.com/ChrisTitusTech/dwm-titus/pull/133) - Debian - LightDM config fix
 - [ChrisTitusTech/dwm-titus#127](https://github.com/ChrisTitusTech/dwm-titus/pull/127) - Fixed debian dconf-cli install
 - [ChrisTitusTech/linutil#1344](https://github.com/ChrisTitusTech/linutil/pull/1344) - 943 Local Setup - Kept Old US Local Setup In place
